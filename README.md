@@ -1,3 +1,3 @@
-## Alien Invasion
+# Alien Invasion
 
-# Built in Python 🐍
+## Built in Python 🐍
